@@ -1,5 +1,6 @@
-Olá,
+Olá, 
 
-Na [wiki](https://github.com/trinca137/trinca-challenge/wiki/Comece-por-aqui) estão as informações relevantes para realizar o desafio. 
+Espero mostrar meu trabalho para vocês. Tive algumas dificuldades e com estudos pude seguir. Gostaria muito de ouvir a opinião de vocês sobre as alterações que fiz para que eu possa entender mais sobre o que vocês desejavam e o que posso aprender com essa experiencia.
 
-Boa sorte!
+Obrigado pela oportunidade 
+Igor
